@@ -1,2 +1,2 @@
 My first Readme
-ALX is project readme
+Readme on ALX software engineer program
